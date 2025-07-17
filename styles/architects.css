@@ -147,4 +147,10 @@ header{
   .team-info{
     text-align: center;
   }
+  .team-info p{
+    white-space: nowrap;
+    /* max-width: 327px; */
+    text-align: justify;
+    width: 100%;
+  }
 }
